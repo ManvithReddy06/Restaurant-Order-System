@@ -1,0 +1,8 @@
+Binary Restaurant
+Receipt: BIN_KMG038
+2024-10-25 09:09:12
+
+Fried Calamari - ₹140
+Salmon Wonder - ₹250
+
+TOTAL: ₹390
